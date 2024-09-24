@@ -1,10 +1,37 @@
+# Environment variables
 .env
+
+# Directories
 credentials/
 audio_example/
 backup/
 download_audio/
 window_app/
-test_dir/AIfuture.mp3
+test_dir/
 __pycache__/
+
+# Specific files
+test_dir/AIfuture.mp3
 .speaker_content.json
 .speaker_list.json
+
+# Python bytecode
+*.pyc
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large media files
+*.mp3
+*.wav
+*.flac
+*.ogg
