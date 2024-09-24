@@ -1,6 +1,6 @@
 .env
 credentials/
-audio_examples/
+audio_example/
 backup/
 download_audio/
 window_app/
