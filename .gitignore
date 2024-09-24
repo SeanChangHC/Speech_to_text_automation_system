@@ -1,0 +1,7 @@
+.env
+credentials/
+audio_examples/
+backup/
+download_audio/
+window_app/
+test_dir/AIfuture.mp3
