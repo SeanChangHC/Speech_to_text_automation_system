@@ -5,3 +5,6 @@ backup/
 download_audio/
 window_app/
 test_dir/AIfuture.mp3
+__pycache__/
+.speaker_content.json
+.speaker_list.json
