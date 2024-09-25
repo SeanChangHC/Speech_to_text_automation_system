@@ -11,8 +11,8 @@ __pycache__/
 
 # Specific files
 test_dir/AIfuture.mp3
-.speaker_content.json
-.speaker_list.json
+speaker_content.json
+speaker_list.json
 
 # Python bytecode
 *.pyc
