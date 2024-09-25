@@ -7,7 +7,6 @@ audio_example/
 backup/
 download_audio/
 window_app/
-test_dir/
 __pycache__/
 
 # Specific files
